@@ -1,6 +1,6 @@
 Readme file matter for website developer
 --------------------       ------------------
-# ✨ New Clinic a medical catagory ✨
+# ✨ New Clinic a medical category ✨
 
 This is a web based application developed for a new website to inform about to india
 
