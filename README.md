@@ -8,7 +8,7 @@ This is a web based application developed for a new website to inform about to i
 
 
 *Project Link* -https://lively-sand-035e31500.2.azurestaticapps.net
-*Project Demo Viedo Link*-
+*Project Demo Viedo Link*-https://youtu.be/-1-RBOjDe0c
 
 ## Features and Functionalities 
 
