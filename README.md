@@ -10,7 +10,7 @@ This is a web based application developed for a new website to inform about to i
 *Project Link* -https://lively-sand-035e31500.2.azurestaticapps.net
 *Project Demo Viedo Link*-
 
-## Features and Functionalities 😃
+## Features and Functionalities 
 
 - Interactive and responsive UI.
 - Have an aesthetically pleasing visual design and architecture.
@@ -18,7 +18,7 @@ This is a web based application developed for a new website to inform about to i
 - User can know about health information through this website.
 - Included the comment space to increase the scope of improvement 
 
-## Screenshots
+## Home
 ![Screenshot (23)](https://user-images.githubusercontent.com/118873175/210125877-15f45b49-6eeb-4518-a08a-026ad6695b41.png)
 
 
